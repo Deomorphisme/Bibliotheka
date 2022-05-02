@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735953683288",
+    "project_id": "biblio-2fcd9",
+    "storage_bucket": "biblio-2fcd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735953683288:android:703b90aace7d3a27681b2d",
+        "android_client_info": {
+          "package_name": "com.project.bibliotheka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735953683288-llasru73gjuo0383lpuv94qto5t4j0fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC56Y026Yy0AEUMXI5wnGQuVmF-zh4xKks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735953683288-llasru73gjuo0383lpuv94qto5t4j0fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
